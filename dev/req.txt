@@ -1,0 +1,3 @@
+Flask = 5.1.5
+NumPy = 4.1.2
+Requests = 3.20.2
