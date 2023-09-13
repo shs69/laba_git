@@ -8,8 +8,3 @@ for i in range(1, 100):
         characters *= i // 5
     else:
         characters += 2
-    
-def func(x):
-    return sin(x)
-
-print(func(pi/2))
