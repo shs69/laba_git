@@ -13,5 +13,3 @@ def func(x):
     return sin(x)
 
 print(func(pi/2))
-print(func(pi/4))
-print(func(pi))
