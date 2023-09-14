@@ -5,6 +5,3 @@ class Cat():
     
     def mur(self):
         print('Му-р')
-    
-    def say(self, words):
-        print(str(words))

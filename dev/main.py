@@ -8,3 +8,17 @@ for i in range(1, 100):
         characters *= i // 5
     else:
         characters += 2
+
+for i in range(1, 100):
+    digit += i
+    if i % 7 == 0:
+        characters *= i // 2
+    else:
+        characters += 5
+        
+for i in range(1, 100):
+    digit += i
+    if i % 7 == 0:
+        characters *= i // 2
+    else:
+        characters += 3
