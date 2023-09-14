@@ -1,9 +1,10 @@
-class Cat:
-    def mew():
+class Cat():
+
+    def mew(self):
         print('Мя-у')
     
-    def mur():
+    def mur(self):
         print('Му-р')
-
-    def sleep():
-        print('Кот спит')
+    
+    def say(self, words):
+        print(str(words))
